@@ -1,0 +1,25 @@
+{
+  "name": "discord-court-bot",
+  "version": "1.0.0",
+  "description": "A court bot for your discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjisoft/Discord-Court-Bot.git"
+  },
+  "author": "Benjamin Lewis (benjisoft)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/benjisoft/Discord-Court-Bot/issues"
+  },
+  "homepage": "https://github.com/benjisoft/Discord-Court-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "firebase-admin": "^6.4.0"
+  },
+  "devDependencies": {}
+}
